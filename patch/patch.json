@@ -1,0 +1,8 @@
+{
+    "name": "Bigger spacebar",
+    "description": "Increase the size of spacebar in Jolla keyboard",
+    "category": "other",
+    "infos": {
+        "maintainer": "toxip"
+    }
+}
